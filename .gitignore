@@ -9,3 +9,4 @@
 *.tlog
 *.VC.db
 *.sqlite
+/test1/test1.vcxproj.filters
